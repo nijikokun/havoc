@@ -1,0 +1,33 @@
+{
+  "name": "havoc",
+  "version": "1.0.0",
+  "description": "Havoc Game Development Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nijikokun/havoc.git"
+  },
+  "keywords": [
+    "game",
+    "development",
+    "framework",
+    "math",
+    "ai",
+    "storage",
+    "sprites",
+    "tilesheet",
+    "inventory",
+    "character",
+    "plugin",
+    "assets"
+  ],
+  "author": "Nijiko Yonskai <nijikokun@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nijikokun/havoc/issues"
+  },
+  "homepage": "https://github.com/nijikokun/havoc#readme"
+}
